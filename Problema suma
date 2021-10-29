@@ -1,0 +1,11 @@
+#!/bin/sh
+echo What are your names?
+echo $MY_NAME 
+read $MY_NAME
+echo  $MY_NAME2
+read $MY_NAME2
+echo $MY_NAME3 
+read $MY_NAME3
+let resultat=$MY_NAME+$MY_NAME2+$MY_NAME3
+let resultat=$resultat/2
+echo 
