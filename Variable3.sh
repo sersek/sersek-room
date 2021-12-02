@@ -1,3 +1,5 @@
+#sergi obrador
+
 nSecret=$(($RANDOM%11))
 echo "Digues el teu nom"
 read nom
