@@ -1,3 +1,5 @@
+  #sergi obrador
+
 #!/bin/sh
 echo What are your names?
 echo $MY_NAME 
