@@ -1,3 +1,5 @@
+#sergi obrador
+
 #!/bin/bash
 
 echo "Escriu un nombre de 0 a 100"
