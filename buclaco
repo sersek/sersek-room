@@ -1,3 +1,5 @@
+#sergi obrador
+
 #!/bin/bash
 
 echo "digues un llistat de lletres en la que hi hagui mínim 1 h"
