@@ -1,3 +1,5 @@
+#sergi obrador
+
 #!/bin/bash
 
 echo "Es crearan 4 nombres aleatoris"
