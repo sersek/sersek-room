@@ -1,13 +1,11 @@
 #!/bin/bash
 
-echo $
+PARAULES=( H a l h b )
 
-paraules=$*
 conta=0
-
-for var in ${paraules[@]}
+for var in $PARAULES[@]
 do
-  if [ $var=h -o $var=H ];then
-   let conta=$conta+1
-done
+if ( var=h );then
+let conta=conta+1
 fi
+done
